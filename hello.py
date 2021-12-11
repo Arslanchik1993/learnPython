@@ -27,7 +27,7 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 #     print(c)
 
 
-# simple program for making a dictionary from your string.
+# simple program for making a list from your string.
 # b = 0
 # c = []
 # c.extend([ 'nice']) 
@@ -37,4 +37,4 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 #     c.extend([d])
 # print(c)
 
-
+# simple program for making a dictionary from the alphabet. 
