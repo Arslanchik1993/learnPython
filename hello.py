@@ -1,2 +1,5 @@
-print('hello')
-print('hello for github.com')
+# All praise belongs to God
+
+alphabet = 'abcdefghijklmnopqrstuvwxyz'
+
+print(len(alphabet))
