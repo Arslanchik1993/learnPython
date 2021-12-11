@@ -1,7 +1,5 @@
 # All Glory belongs to God
 
-
-
 #Mastering the for loop
 
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
@@ -45,4 +43,4 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 #     c.append(alphabet[a])
 #     a = a -1
 # print(c)
-
+a = alphabet.find('b')
