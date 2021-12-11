@@ -30,13 +30,13 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
 
 # simple program for making a list from your string.
-# b = 0
-# c = []
-# c.extend([ 'nice']) 
-# print(c)
-# for i in alphabet:
-#     d = (f"{i}")
-#     c.extend([d])
-# print(c)
+b = 0
+c = []
+c.extend([ 'nice']) 
+print(c)
+for i in alphabet:
+    d = (f"{i}")
+    c.extend([d])
+print(c)
 
 # simple program for making a dictionary from the alphabet. 
