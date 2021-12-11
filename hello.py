@@ -28,8 +28,13 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
 
 # simple program for making a dictionary from your string.
-b = 0
-for i in alphabet:
-    print(f"'{i}':'{b}'", end=",")
-    b = b+1
-        
+# b = 0
+# c = []
+# c.extend([ 'nice']) 
+# print(c)
+# for i in alphabet:
+#     d = (f"{i}")
+#     c.extend([d])
+# print(c)
+
+
