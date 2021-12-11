@@ -7,11 +7,11 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
 #simple for loop that prints a string and it's index 10 times (starting with 0)
 # for i in range(10):
-    # print(f"number:{i}")
+#     print(f"number:{i}")
 
-#When there is no in range the loop gets the actal value
+# When there is no in range the loop gets the actal value
 # for i in alphabet:
-    # print(i)
+#     print(i)
 
 #Loop that apparently has to changes values in our list into numbers but it doesn't cause TypeError: 'str' object does not support item assignment
 # b = 0  
@@ -43,4 +43,11 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 #     c.append(alphabet[a])
 #     a = a -1
 # print(c)
-a = alphabet.find('b')
+
+# a = 0
+# testing
+# for i in alphabet:
+#     if a < 10:
+#         print(f'hello:{i}:{a}')
+#     a = a + 1
+
