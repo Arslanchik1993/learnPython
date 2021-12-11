@@ -6,4 +6,6 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 // }
 // console.log(a);
 
-a = alphabet.pop()
+for (let i =0; i < 10; i++){
+    
+}
