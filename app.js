@@ -1,11 +1,7 @@
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
-// a = ''
-// for (let i =0; i < 5; i++){
-//     a = alphabet[i]
-// }
-// console.log(a);
-
-for (let i =0; i < 10; i++){
-    
+function finder(array, target){
+for (let i = 0; i < length(array); i++){
+    if array[i] === targe
+}
 }
