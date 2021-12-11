@@ -1,5 +1,7 @@
 # All Glory belongs to God
 
+
+
 #Mastering the for loop
 
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
