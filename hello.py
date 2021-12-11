@@ -30,13 +30,19 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
 
 # simple program for making a list from your string.
-b = 0
-c = []
-c.extend([ 'nice']) 
-print(c)
-for i in alphabet:
-    d = (f"{i}")
-    c.extend([d])
-print(c)
+# b = 0
+# c = []
+# c.extend([ ]) 
+# for i in alphabet:
+#     d = (f"{i}")
+#     c.extend([d])
+# print(c)
 
-# simple program for making a dictionary from the alphabet. 
+#a program for for turning alphabet into a list in reverse order
+# a = -1
+# c = []
+# for i in range(len(alphabet)):
+#     c.append(alphabet[a])
+#     a = a -1
+# print(c)
+
